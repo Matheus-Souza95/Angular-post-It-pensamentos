@@ -4,10 +4,13 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-Comandos iniciais:
+<h3>Comandos iniciais:</h3>
 -npm install na pasta src
+</br>
 -npm start na pasta backend
+</br>
 -ng serve na pasta src
+</br>
 -endereço localhost 4200
 
 
